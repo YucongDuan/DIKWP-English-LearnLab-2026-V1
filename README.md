@@ -1,5 +1,7 @@
 # DIKWP English LearnLab 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 A standalone, offline-first prototype for Chinese students learning English through a DIKWP evidence loop.
 
 ## Workflow
